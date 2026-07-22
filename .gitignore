@@ -1,0 +1,11 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.swp
+.idea/
+node_modules/
+.vscode/
+dist/
+.DS_Store
